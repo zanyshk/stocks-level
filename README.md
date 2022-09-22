@@ -1,6 +1,6 @@
-# LogParser
+# StocksLevel
 
-Command Line Log Parser App
+Stocks-Level App 
 
 ## Installation
 
